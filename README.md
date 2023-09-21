@@ -5,4 +5,4 @@
 
 You can open the console and see the commented sentences on the code to see the explanation.
 
-[**See the project**](https://sync-promise-async-await.vercel.app/)
+[**See the project**](https://sync-promise-async-await.netlify.app/)
